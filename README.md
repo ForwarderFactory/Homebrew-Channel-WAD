@@ -1,4 +1,7 @@
 # Homebrew-Channel-WAD
+
+# NOTE: Old outdated repo, see https://github.com/ForwarderFactory/hbc-archive
+
 A bunch of Homebrew Channel WADs, straight from my Wii.
 
 How to use: Download everything and install using your favorite WAD manager (Or "Install WAD" if you're using Dolphin Emulator)
